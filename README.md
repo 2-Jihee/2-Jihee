@@ -1,7 +1,6 @@
 <div>
 <h1>👋 Hi, I’m Jihee😊</h1>
 </div>
-
 <div>
   <a href="https://queenddubi.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
@@ -13,17 +12,13 @@
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
-<br>
-
 <div>
 <h3>👩‍💻work experience</h3>
 - 21.05 ~ 21.12: IT 보안 회사 연구개발부 인턴 근무<br>
 - 22.01 ~ 22.06: 멀티캠퍼스 AI 서비스 개발 6회차 교육 수강<br>
 - 22.07 ~ 22.11: 데이터사이언스 회사 인턴 근무<br>
 </div>
-
 ***
-<br>
 <div>
 <h3>💪Stacks</h3>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
