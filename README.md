@@ -1,5 +1,5 @@
 <div>
-<h1>👋 Hi, I’m Jihee😊</h1>
+<h2>👋 Hi, I’m Jihee😊</h2>
 </div>
 <div>
   <a href="https://queenddubi.tistory.com" target="_blank">
